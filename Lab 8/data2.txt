@@ -1,0 +1,6 @@
+This line contains lol.
+This line also "Lol".
+Previous line contained the word-you-know.
+This line does not contain lOL.
+Oops!  It  actually  contained  lol.
+But, this line doesn't.
